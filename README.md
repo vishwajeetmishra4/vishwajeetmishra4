@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966">
-<p align="left">
+
+<p align="Centre">
 <a href="https://twitter.com/vishwajeet_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishwajeet_4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishwajeet-mishra4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwajeet-mishra4" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100080983966580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100080983966580" height="30" width="40" /></a>
