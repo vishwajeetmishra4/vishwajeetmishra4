@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p align="left"> <a href="https://twitter.com/vishwajeet_4" target="blank"><img src="https://img.shields.io/twitter/follow/vishwajeet_4?logo=twitter&style=for-the-badge" alt="vishwajeet_4" /></a> </p> -->
 <p align="Right"> <img src="https://octodex.github.com/images/baracktocat.jpg" alt="logo" width="100"> </p>
-
+<p align="Left">
 - 🌱 I’m currently learning **Java & JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://vishwajeetmishra4.github.io/portfolio/](https://vishwajeetmishra4.github.io/portfolio/)
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **HTMl, CSS**
 
 - 📫 How to reach me **Mishramangalam2@gmail.com**
-
+</p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
