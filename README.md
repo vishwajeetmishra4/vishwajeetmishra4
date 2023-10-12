@@ -18,11 +18,11 @@ You can click the Preview link to take a look at your changes.
 <p align="Right"> <img src="https://octodex.github.com/images/baracktocat.jpg" alt="logo" width="100"> </p>
 
 
-- 🌱 I’m currently learning **C & Java**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://vishwajeetmishra4.github.io/portfolio/](https://vishwajeetmishra4.github.io/portfolio/)
 
-- 💬 Ask me about **HTMl, CSS**
+- 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **Mishramangalam2@gmail.com**
 
